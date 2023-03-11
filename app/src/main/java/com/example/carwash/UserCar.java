@@ -2,8 +2,6 @@ package com.example.carwash;
 
 import org.jetbrains.annotations.NotNull;
 
-import java.util.ArrayList;
-
 public class UserCar {
     @NotNull
     private String userName;
